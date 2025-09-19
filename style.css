@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+}
+
+p{
+    color:lightskyblue;
+}
+
+#header-2 {
+    color:lightslategray;
+    text-decoration: underline;
+}
+
+.p-css{
+    color:lightcyan;
+    font-size: 30px;
+}
+
+* {
+    background-color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.5;
+}
+
+.box-model{
+    width: 500px;
+    height: 400px;
+    background-color: lightseagreen;
+    padding: 20px;
+    border: 3px solid green;
+}
